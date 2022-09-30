@@ -37,6 +37,10 @@
     height: 100%;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 .nav-menu-activity-choice, .nav-menu-stay-choice {
     border-top: 2px solid transparent;
     padding: 35px;

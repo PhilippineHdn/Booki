@@ -79,6 +79,10 @@
     position: relative;
 }
 
+#place {
+    display: none;
+}
+
 .fa-location-dot {
     position: absolute;
     top: 50%;

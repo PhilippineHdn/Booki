@@ -63,6 +63,7 @@
 
 .main-subtitle {
     font-size: 20px;
+    font-weight: 200;
 }
 
 .searchbar {
@@ -473,6 +474,10 @@
 
     .nav-logo {
         margin-top: 20px;
+    }
+
+    .nav-menu-activity-choice, .nav-menu-stay-choice, .nav-menu-activity-choice:hover, .nav-menu-stay-choice:hover, .active {
+        width: 100%;
     }
 
     .main-nav {
